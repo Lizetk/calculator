@@ -1,0 +1,11 @@
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+sqlalchemy==2.0.43
+pydantic==2.11.7
+python-multipart==0.0.20
+rapidfuzz==3.13.0
+openpyxl==3.1.5
+trimesh==4.8.1
+numpy==2.3.3
+Pillow==11.3.0
+pytest==8.4.2

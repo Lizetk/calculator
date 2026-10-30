@@ -1,0 +1,7 @@
+.venv/
+frontend/node_modules/
+frontend/dist/
+data/database.sqlite
+data/_import*.xlsx
+__pycache__/
+*.pyc
